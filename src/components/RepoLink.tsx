@@ -1,6 +1,6 @@
 import { cc } from '@/utility/css';
 import Link from 'next/link';
-import { BiLogoGithub } from 'react-icons/bi';
+import { TbBrandVinted } from "react-icons/tb";
 
 export default function RepoLink() {
   return (
@@ -17,7 +17,7 @@ export default function RepoLink() {
           'hover:underline',
         )}
       >
-        <BiLogoGithub className="translate-y-[1px] hidden xs:inline-block" />
+        <TbBrandVinted className="translate-y-[1px] hidden xs:inline-block" />
       Le BadZart Des Amoureux
       </Link>
     </span>
