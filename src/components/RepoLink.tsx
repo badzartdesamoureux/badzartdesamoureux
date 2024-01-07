@@ -18,7 +18,7 @@ export default function RepoLink() {
         )}
       >
         <BiLogoGithub className="translate-y-[1px] hidden xs:inline-block" />
-        exif-photo-blog
+        Le BadZart Des Amoureux
       </Link>
     </span>
   );
