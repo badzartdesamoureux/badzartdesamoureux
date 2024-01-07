@@ -18,7 +18,7 @@ export default function RepoLink() {
         )}
       >
         <BiLogoGithub className="translate-y-[1px] hidden xs:inline-block" />
-        Le BadZart Des Amoureux
+      Le BadZart Des Amoureux
       </Link>
     </span>
   );
